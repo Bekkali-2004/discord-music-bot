@@ -1,4 +1,4 @@
-# Discord-Music-Bot-Remastered
+# Discord-Audio-Bot-Remake
 This repository contains a basic Discord Music bot that can pause, resume, stop and skip songs. The bot also has it's very own queueing system!
 The bot is made in Python and uses the discord.py library.
 
